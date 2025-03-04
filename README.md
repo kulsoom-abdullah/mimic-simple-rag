@@ -125,6 +125,10 @@ The system uses enhanced prompting techniques tailored for healthcare data to im
 - Uses general-purpose embeddings rather than clinical embeddings
 
 
+## Synthetic Data Option
+
+If you don’t have access to the MIMIC-III dataset or BigQuery, you can use the **synthetic data version** of this project. It provides a simplified RAG pipeline using randomly generated hospital admission data. Check out the [synthetic_data_version folder](synthetic_data_version/README.md) for details.
+
 ## Potential Future Work
 
 The next phase will extend this approach to clinical notes in MIMIC-III, implementing:
