@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+google-cloud-bigquery
+langchain
+langchain-core
+langchain-huggingface
+langchain-openai
+faiss-cpu
+sentence-transformers
+openai
+python-dotenv
